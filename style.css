@@ -46,7 +46,7 @@ input {
     position: relative;
     border-radius: 10px;
     height: 550px;
-    width: 280px;
+    width: 300px;
     background: white;
     display: flex;
     flex-direction: column;
